@@ -30,6 +30,7 @@
   - "package/boot/arm-trusted-firmware-bcm63xx/**"
 "target/bmips":
   - "target/linux/bmips/**"
+  - "package/boot/uboot-bmips/**"
 "target/d1":
   - "target/linux/d1/**"
   - "package/boot/uboot-d1/**"
@@ -77,8 +78,6 @@
   - "package/boot/uboot-mxs/**"
 "target/octeon":
   - "target/linux/octeon/**"
-"target/octeontx":
-  - "target/linux/octeontx/**"
 "target/omap":
   - "target/linux/omap/**"
   - "package/boot/uboot-omap/**"
